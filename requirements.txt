@@ -1,0 +1,14 @@
+websockets
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+libretranslatepy
+yandex-cloud-ml-sdk
+pygame
+PySide6
+SpeechRecognition
+Pillow
+pycaw
+comtypes
+pyaudio
